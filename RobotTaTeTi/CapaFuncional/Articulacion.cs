@@ -5,9 +5,9 @@ using System.Text;
 
 namespace CapaFuncional
 {
-    abstract class Articulacion
+    public abstract class Articulacion
     {
-        protected Motor motor = new Motor();
+        public Motor motor = new Motor();
 
         public abstract void PosicionarEnCero();
 

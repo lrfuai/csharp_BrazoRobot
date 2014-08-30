@@ -34,13 +34,12 @@ namespace RobotTaTeTi
             position.dimensionY = Single.Parse(txtY.Text);
             position.dimensionZ = Single.Parse(txtZ.Text);
             brazoPrincipal.goTo(position);
-
         }
 
-
-
-
-     
+        private void button2_Click(object sender, EventArgs e)
+        {
+            brazoPrincipal.SetCabeceo(float.Parse(textBox1.Text));
+        }
 
     }
 }

@@ -48,7 +48,9 @@
     <Compile Include="Hombro.cs" />
     <Compile Include="Articulacion.cs" />
     <Compile Include="Motor.cs" />
+    <Compile Include="MovementCalculator.cs" />
     <Compile Include="Muñeca.cs" />
+    <Compile Include="Posicion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -60,6 +62,9 @@
       <Project>{0c0d57ee-28ec-4e70-b2d8-fb15df0db264}</Project>
       <Name>InterfacesComunicacion</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

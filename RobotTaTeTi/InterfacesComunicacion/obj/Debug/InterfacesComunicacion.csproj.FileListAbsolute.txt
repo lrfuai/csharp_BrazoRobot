@@ -7,3 +7,8 @@ D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaT
 D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.pdb
 D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.dll
 D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.dll
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.dll
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.pdb

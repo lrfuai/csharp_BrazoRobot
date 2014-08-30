@@ -21,10 +21,6 @@ namespace CapaFuncional
         {
             //se trata del servo que se mueve al revés que los demás
             //invierto los grados para obtener el movimiento deseado
-            //if (90 - grados < 0)
-            //{
-            //    grados = 0;
-            //}
             this.motor.girarGrados(180 - grados);
             this.posicion = grados;
         }

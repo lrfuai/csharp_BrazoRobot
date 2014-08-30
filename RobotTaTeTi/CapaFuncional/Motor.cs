@@ -7,7 +7,7 @@ using InterfacesComunicacion;
 
 namespace CapaFuncional
 {
-    class Motor
+    public class Motor
     {
         //atributo que permite que el método de girarGrados sea polimórfico
         //configurar antes de llamar a girarGrados

@@ -50,3 +50,36 @@ C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica invers
 C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.Form1.resources
 C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.Properties.Resources.resources
 C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.csproj.GenerateResource.Cache
+E:\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.exe.config
+E:\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.exe
+E:\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.exe.config
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.exe
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.exe
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaFuncional.dll
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\InterfacesComunicacion.dll
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaLogica.dll
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaFuncional.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\InterfacesComunicacion.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaLogica.pdb
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.Form1.resources
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.Properties.Resources.resources
+C:\Users\Nicolás\Desktop\Ingeniería en Sistemas Informáticos\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.csproj.GenerateResource.Cache
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.exe.config
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.exe
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.pdb
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.exe
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\RobotTaTeTi.pdb
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaFuncional.dll
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\InterfacesComunicacion.dll
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaLogica.dll
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaFuncional.pdb
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\InterfacesComunicacion.pdb
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\bin\Debug\CapaLogica.pdb
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.csprojResolveAssemblyReference.cache
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.Form1.resources
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.Properties.Resources.resources
+C:\Users\Robotica\Desktop\Robot final\RobotTaTeti con cinematica inversa\RobotTaTeTi\RobotTaTeTi\obj\Debug\RobotTaTeTi.csproj.GenerateResource.Cache
