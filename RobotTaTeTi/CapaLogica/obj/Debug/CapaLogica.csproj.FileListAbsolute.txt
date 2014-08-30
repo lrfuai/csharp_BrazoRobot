@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\bin\Debug\CapaLogica.dll
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\bin\Debug\CapaLogica.pdb
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.dll
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.pdb
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\bin\Debug\InterfacesComunicacion.dll
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\CapaLogica\bin\Debug\InterfacesComunicacion.pdb
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\bin\Debug\CapaLogica.dll
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\bin\Debug\InterfacesComunicacion.dll
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\bin\Debug\InterfacesComunicacion.pdb
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.dll
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\bin\Debug\InterfacesComunicacion.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\bin\Debug\InterfacesComunicacion.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaLogica\obj\Debug\CapaLogica.pdb

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.dll
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.pdb
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.dll
+c:\users\user\documents\visual studio 2012\Projects\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.csprojResolveAssemblyReference.cache
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.dll
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\bin\Debug\InterfacesComunicacion.pdb
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.dll
+D:\Ingeniería en Sistemas Informáticos\5º Año\Versiones RobotTaTeTi\RobotTaTeTi\InterfacesComunicacion\obj\Debug\InterfacesComunicacion.pdb

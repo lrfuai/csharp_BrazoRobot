@@ -1,0 +1,17 @@
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\bin\Debug\CapaFuncional.dll
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\bin\Debug\CapaFuncional.pdb
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\bin\Debug\CapaLogica.dll
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\bin\Debug\InterfacesComunicacion.dll
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\bin\Debug\CapaLogica.pdb
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\bin\Debug\InterfacesComunicacion.pdb
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\obj\Debug\CapaFuncional.dll
+C:\Users\Robotica\Documents\RobotTaTeTi\CapaFuncional\obj\Debug\CapaFuncional.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\obj\Debug\CapaFuncional.csprojResolveAssemblyReference.cache
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\obj\Debug\CapaFuncional.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\bin\Debug\CapaFuncional.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\bin\Debug\CapaFuncional.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\bin\Debug\CapaLogica.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\bin\Debug\InterfacesComunicacion.dll
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\bin\Debug\CapaLogica.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\bin\Debug\InterfacesComunicacion.pdb
+C:\Users\Robotica\Desktop\FUNCIONA_brazo_robot\RobotTaTeti con cinematica inversa\RobotTaTeTi\CapaFuncional\obj\Debug\CapaFuncional.pdb
